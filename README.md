@@ -1,2 +1,2 @@
 # mernBlog
-dev test MERN
+First MERN project
